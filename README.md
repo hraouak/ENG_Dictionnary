@@ -12,9 +12,9 @@ A C language program that detects all misspelled words in an English text. For t
 Please put the text to be corrected in the file "texte.txt".                        
 Please put the reference dictionary in the file "dico.txt".                 
 
-`make mrproper`                                         
-`make`                                                 
-`./executable`
+`$ make mrproper`                                         
+`$ make`                                                 
+`$ ./executable`
 
 
 **Example**
@@ -27,7 +27,7 @@ Result:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hraouak/ENG_Dictionnary/main/Example.png" />
+  <img src="https://raw.githubusercontent.com/hraouak/ENG_Dictionnary/master/Example.png" />
 </p>
 
 
