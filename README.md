@@ -26,7 +26,7 @@ Let's take the following text:
 Result:
 
 
-![Example](master/Example.png)
+![Example](Example.png)
 
 
 
